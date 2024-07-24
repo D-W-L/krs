@@ -1,4 +1,4 @@
-module D-W-L/krs
+module github.com/D-W-L/krs
 
 go 1.22
 
